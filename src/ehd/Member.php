@@ -29,7 +29,7 @@ class Member
      */
     protected $soapClient;
 
-    public function init($wsdl)
+    public function setWsdl($wsdl)
     {
         $this->soapClient = new SoapClient($wsdl);
 
