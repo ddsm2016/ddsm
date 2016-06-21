@@ -1,5 +1,5 @@
-<?php namespace Ddsm\Szrk;
-
+<?php 
+namespace Ddsm;
 
 class Curl
 {

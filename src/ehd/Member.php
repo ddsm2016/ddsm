@@ -1,11 +1,12 @@
-<?php namespace Ddsm\Ehd;
+<?php 
+namespace Ddsm\Ehd;
 
 use SoapClient;
 
 /**
  * 亿惠达会员接口客户端类库
  */
-class Hy
+class Member
 {
     /**
      * @var array 亿惠达服务接口清单

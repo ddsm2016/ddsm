@@ -1,4 +1,7 @@
-<?php namespace Ddsm\Szrk;
+<?php 
+namespace Ddsm\Szrk;
+
+use Ddsm\Curl;
 
 /**
  * 神州软科短信发送类

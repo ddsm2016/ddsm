@@ -1,16 +1,16 @@
 {
   "name": "ddsm2016/ddsm",
-  "description": "东大积分商城自定义类库",
-  "keywords": ["东大", "积分商城"],
+  "description": "东大自定义类库",
+  "keywords": ["东大", "类库"],
   "type": "library",
   "license": "MIT",
   "authors": [
     {
-      "name": "WeifengPeng"
+      "name": "Peng Weifeng"
     }
   ],
   "require": {
-    "php": ">=5.4"
+    "php": ">=5.5.9"
   },
   "autoload": {
     "psr-4": {
